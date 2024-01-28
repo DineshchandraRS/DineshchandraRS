@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshchandrars&label=Profile%20views&color=0e75b6&style=flat" alt="dineshchandrars" /> </p>
 
-- 📫 How to reach me **dinu82000@gmail.com**
+- 🔭 **Delving deep into the realms of Data Science and honing my skills in machine learning. Passionate about turning raw data into actionable insights**
+
+- 🌱 **Constantly expanding my knowledge base in Data Science, with a focus on mastering machine learning algorithms, statistical analysis, and data visualization techniques.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,3 +19,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dineshchandrars&show_icons=true&locale=en" alt="dineshchandrars" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshchandrars&" alt="dineshchandrars" /></p>
+
