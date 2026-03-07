@@ -30,3 +30,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshchandraRS&show_icons=true&locale=en&layout=compact" alt="DineshchandraRS" />
 </p>
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DineshchandraRS&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=DineshchandraRS)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DineshchandraRS&layout=compact)
