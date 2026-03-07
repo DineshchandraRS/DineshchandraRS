@@ -19,8 +19,14 @@
 <h3 align="left"> My GitHub Stats </h3>
 <br/>
 
-<div><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DineshchandraRS&show_icons=true&locale=en" alt="DineshchandraRS" /></p></div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DineshchandraRS&show_icons=true&locale=en" alt="DineshchandraRS" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DineshchandraRS&" alt="DineshchandraRS" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DineshchandraRS" alt="DineshchandraRS" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshchandraRS&show_icons=true&locale=en&layout=compact" alt="Dineshchandra" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshchandraRS&show_icons=true&locale=en&layout=compact" alt="DineshchandraRS" />
+</p>
