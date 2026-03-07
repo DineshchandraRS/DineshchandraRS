@@ -19,19 +19,6 @@
 <h3 align="left"> My GitHub Stats </h3>
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DineshchandraRS&show_icons=true&locale=en" alt="DineshchandraRS" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DineshchandraRS" alt="DineshchandraRS" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshchandraRS&show_icons=true&locale=en&layout=compact" alt="DineshchandraRS" />
-</p>
-
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DineshchandraRS&show_icons=true&theme=default)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DineshchandraRS)
