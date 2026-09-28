@@ -1,10 +1,10 @@
- <h1 align="center">Hi 👋, I'm Dinesh Chandra</h1>
+  <h1 align="center">Hi 👋, I'm Dinesh Chandra</h1>
   <h3 align="center">Senior Data & AI Engineer | Cloud Data Architect | Data Science Enthusiast</h3>
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=dineshchandrars&label=Profile%20views&color=0e75b6&style=flat" alt="dineshchandrars" />
   </p>
-  
+
   <p align="center">
     <em>Data & AI Engineer with 4+ years of experience designing and delivering scalable, cloud-native data platforms, Medallion architectures, AI agents, and     
   production data pipelines across Snowflake, Databricks, AWS, and Azure.</em>
@@ -16,7 +16,7 @@
 
   - 🔭 **Currently Architecting**: End-to-end data platforms on Medallion architecture (Bronze–Silver–Gold), scalable dbt models, Snowflake Cortex AI agents, and  
   near real-time orchestration pipelines.
-  - 🧠 **Data Science & ML**: Developing AI agents, fine-tuning LLM workflows with Snowflake Cortex, and applying ML algorithms, NLP, statistical modeling, and EDA
+  - 🧠 **Data Science & ML**: Developing AI agents, fine-tuned LLM workflows with Snowflake Cortex, and applying ML algorithms, NLP, statistical modeling, and EDA 
   to convert complex data into actionable business intelligence.
   - 📜 **Certified**: SnowPro Core & SnowPro Specialty: Gen AI | Incorta Developer
   - 💬 **Ask Me About**: Snowflake (Streams, Tasks, Cortex AI), Databricks, Apache Airflow, dbt, PySpark, AWS, Azure, Data Modeling, and Machine Learning with     
@@ -93,14 +93,14 @@
   ### 📊 GitHub Activity & Stats
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DineshchandraRS&show_icons=true&theme=tokyonight&hide_border=true" alt="Dinesh's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DineshchandraRS&show_icons=true&theme=vue-dark&hide_border=true" alt="Dinesh's GitHub Stats" />  
   </p>
 
   <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=DineshchandraRS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=DineshchandraRS&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
   </p>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshchandraRS&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"       
-  alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshchandraRS&layout=compact&langs_count=8&theme=vue-dark&hide_border=true" alt="Top
+  Languages" />
   </p>
