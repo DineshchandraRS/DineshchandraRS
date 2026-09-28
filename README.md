@@ -1,26 +1,106 @@
-<h1 align="center">Hi 👋, I'm Dinesh Chandra</h1>
-<h3 align="center">A passionate Developer and Data Engineer, Pursuing Data Scientist from India</h3>
+ <h1 align="center">Hi 👋, I'm Dinesh Chandra</h1>
+  <h3 align="center">Senior Data & AI Engineer | Cloud Data Architect | Data Science Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshchandrars&label=Profile%20views&color=0e75b6&style=flat" alt="dineshchandrars" /> </p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=dineshchandrars&label=Profile%20views&color=0e75b6&style=flat" alt="dineshchandrars" />
+  </p>
+  
+  <p align="center">
+    <em>Data & AI Engineer with 4+ years of experience designing and delivering scalable, cloud-native data platforms, Medallion architectures, AI agents, and     
+  production data pipelines across Snowflake, Databricks, AWS, and Azure.</em>
+  </p>
 
-- 🔭 **Delving deep into the realms of Data Science and honing my skills in machine learning. Passionate about turning raw data into actionable insights**
+  ---
 
-- 🌱 **Constantly expanding my knowledge base in Data Science, with a focus on mastering machine learning algorithms, statistical analysis, and data visualization techniques.**
+  ### 🌟 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dinesh-chandra-001a91178/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dinesh-chandra-001a91178/" height="30" width="40" /></a>
-</p>
+  - 🔭 **Currently Architecting**: End-to-end data platforms on Medallion architecture (Bronze–Silver–Gold), scalable dbt models, Snowflake Cortex AI agents, and  
+  near real-time orchestration pipelines.
+  - 🧠 **Data Science & ML**: Developing AI agents, fine-tuning LLM workflows with Snowflake Cortex, and applying ML algorithms, NLP, statistical modeling, and EDA
+  to convert complex data into actionable business intelligence.
+  - 📜 **Certified**: SnowPro Core & SnowPro Specialty: Gen AI | Incorta Developer
+  - 💬 **Ask Me About**: Snowflake (Streams, Tasks, Cortex AI), Databricks, Apache Airflow, dbt, PySpark, AWS, Azure, Data Modeling, and Machine Learning with     
+  Python.
+  - ⚡ **Fun Fact**: I turn messy heterogeneous data into pristine Gold-layer datasets and production-ready APIs!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href = "https://www.javatpoint.com/vb-net" target="_blank" rel="noreferrer"><img src ="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg"  alt="Visual Basic" width="40" height="40"/></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a><a href = "https://www.testrail.com/" target="_blank" rel="noreferrer"><img src ="https://upload.vectorlogo.zone/logos/gurock_testrail/images/765e1f59-7fb9-4bbb-8eb3-5fa5c96eadc3.svg"  alt="TestRail" width="40" height="40"/></a><a href = "https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src ="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"  alt="Jira" width="40" height="40"/></a><a href = "https://robotframework.org/" target="_blank" rel="noreferrer"><img src ="https://upload.vectorlogo.zone/logos/robotframework/images/9ea09aa9-e7c0-46f6-94d3-07e7032f869c.svg" alt = "RobotFramework" width="40" height="40"/></a><a href = "https://spark.apache.org/" target="_blank" rel="noreferrer"><img src ="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt = "Apache Spark" width="40" height="40"/></a><a href = "https://nifi.apache.org/" target="_blank" rel="noreferrer"><img src ="https://www.vectorlogo.zone/logos/apache_nifi/apache_nifi-ar21.svg" alt = "Apache Nifi" width="40" height="40"/></a><a href = "https://www.snowflake.com/en/emea/" target="_blank" rel="noreferrer"><img src ="https://www.vectorlogo.zone/logos/snowflake/snowflake-ar21.svg" alt = "Snowflake" width="40" height="40"/></a>
-</p>
+  ---
 
-<h3 align="left"> My GitHub Stats </h3>
-<br/>
+  ### 📬 Connect with Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DineshchandraRS&show_icons=true&theme=default)
+  <p align="left">
+    <a href="https://www.linkedin.com/in/dinesh-chandra-001a91178/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:srinivasa8511@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=DineshchandraRS)
+  ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DineshchandraRS&layout=compact&langs_count=8)
+  ### 🛠️ Tech Stack & Tools
+
+  #### ☁️ Cloud & Data Warehouses / Lakes
+  <p align="left">
+    <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
+    <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  </p>
+
+  #### ⚙️ Data Engineering & ETL/ELT
+  <p align="left">
+    <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+    <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Apache Airflow" />
+    <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark" />
+    <img src="https://img.shields.io/badge/Apache_NiFi-7298A6?style=for-the-badge&logo=apache-nifi&logoColor=white" alt="Apache NiFi" />
+    <img src="https://img.shields.io/badge/SnapLogic-00A4E4?style=for-the-badge&logoColor=white" alt="SnapLogic" />
+  </p>
+
+  #### 🤖 AI, Machine Learning & Data Science
+  <p align="left">
+    <img src="https://img.shields.io/badge/Snowflake_Cortex-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Cortex AI" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+    <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  </p>
+
+  #### 💻 Programming Languages & Backend
+  <p align="left">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/MS_SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
+  </p>
+
+  #### 🚀 DevOps, Observability & Tooling
+  <p align="left">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+    <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  </p>
+
+  ---
+
+  ### 📊 GitHub Activity & Stats
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=DineshchandraRS&show_icons=true&theme=tokyonight&hide_border=true" alt="Dinesh's GitHub Stats" />
+  </p>
+
+  <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=DineshchandraRS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshchandraRS&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"       
+  alt="Top Languages" />
+  </p>
